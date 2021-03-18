@@ -3,3 +3,4 @@
 Cargo.lock
 .openapi-generator
 docs
+.devcontainer
